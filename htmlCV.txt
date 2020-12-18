@@ -1,0 +1,110 @@
+<! DOCTYPE html>
+<html>
+
+<head><title>CV of Maliha</title></head>
+
+<body>
+
+<font size='4'><center><b>Curriculum vitae of<br/> Maliha Hossain</b></center></font>
+<img src='maliha.png' height="100" , width="100" align="right">
+
+<b><i>Address:</br></b>House-1,Lane:24/4,Avenue-5,<br/>Modina Nogor,Mirpur-11,Dhaka-1216</i></br>
+<b>Email:</b><u>malihahossain62@gmail.com</u>
+</br>
+</br>
+<hr>
+<b>Career Objective:</b></br>
+Seeking a challenging position in an engineering environment where I could add my knowledge and skills for the better productivity of the organization.
+</br>
+</br>
+<b>Educational background</b>
+<table border="1">
+<tr>
+	<th>Degree</th>
+	<th>Group</th>
+	<th>GPA</th>
+	<th>Institute</th>
+
+</tr>
+
+<td>HSC</td>
+<td>Science</td>
+<td>4.25</td>
+<td>Shaheed Bir Uttam Lft. Anowar Girl's College</td>
+
+<tr>
+<td>SSC</td>
+<td>Science</td>
+<td>5.00</td>
+<td>Mirpur Girl's Ideal Laboratory Institute</td>
+</tr>
+<tr>
+	<td>JSC</td>
+<td>-</td>
+<td>4.75</td>
+<td>Mirpur Girl's Ideal Laboratory Institute</td>
+
+</tr>
+
+
+
+
+</table>
+</br>
+
+<b>Technical Skills:</b>
+<hr/>
+<ul>
+
+<li><b>Programming Language:</b></li>C,C++,Java,Javascript,Assembly Language</br>
+<li><b>Database:</b>MySQL.</br></li>
+<li><b>Scripting Language:</b>HTML5,CSS3.</br></li>
+<li><b>OS:</b>Windows,Ubuntu</br></li>
+<li><b>IDE:</b> Apace Net Beans,
+CodeBlocks ,Visual
+Studio,Sublime Text
+3,Intellij,Gitbash</br></li>
+<li><b>Modeling Language:</b></li>ER Diagram
+<li><b>Data Structure</b></li>
+<li><b>Algorithm</b></li>
+<li><b>Software Development Platform:</b>GitHub Inc</li>
+</ul>
+
+<hr/>
+
+<b>Academic Project:</b></br>
+<b>Project-1:</b>Landlord Tenant Registry Information</br>
+Link:<u style="color:blue">https://github.com/malihahossain/Database-Project/blob/main/DBMS-Final-Paper-Code.txt</u></br>
+<hr/>
+<b>Leadership Skill:</b>BNCC Member <b>[2013-2015]</b></br>
+Shaheed Bir Uttam Lft. Anowar Girl's College,Cantontment,Dhaka. </br>
+<ul><li>I was working as a BNCC team member for the betterment of myself and my organization </li></ul>
+
+<b>Communication Skill:</b>Fluent in Bangla and English</br>
+<hr/>
+<b>Personal Profile:</b></br>
+<b>Full Name:</b>Maliha Hossain</br>
+<b>DOB:</b>06 Dec 1998</br>
+<b>Marital Status:</b>Single</br>
+<b>Hobby:</b>Gardening,Playing Games,Travelling,Cooking</br>
+<b>Permanent Address:</b>House-1,Lane:24/4,Avenue-5,
+Modina Nogor,Mirpur-11,Dhaka-1216</br>
+<b>Present Address:</b>House-1,Lane:24/4,Avenue-5,
+Modina Nogor,Mirpur-11,Dhaka-1216</br></br>
+<hr/>
+<b>University Website Link:</b><u Style="color:Blue">www.seu.ac.bd</u></br>
+
+<b>References:</b></br>
+Md. Mijanur Rahman
+</br>Assistant Professor</br>
+Southeast University</br>
+Email:<u>mijanur.rahman@seu.edu.bd</u></br>
+</br>
+Rifat Rahman
+</br>Lecturer</br>
+Southeast University</br>
+Email:<u>rifat.rahman@seu.edu.bd</u>
+</body>
+
+</html># html-cv-project
+# html-cv-project
